@@ -3,3 +3,4 @@ oyunkwon@MacBook-Pro-3 git_study %
 
 
 사람이름 추가했습니다.
+모델이름 추가했습니다.
